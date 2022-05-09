@@ -174,8 +174,6 @@ mid_value = datas[mid_index]
 
 ## 4. 우리가 써야 할 툴
 
-https://trello.com/b/CE3XreUl/zerobasesundaykptretrospective
-
 https://velog.io/
 
 https://github.com/
@@ -186,6 +184,12 @@ https://github.com/
 
 <br>
 
-<br>
+---
 
- 
+### 22년 5월 9일 업데이트 
+
+* 5월 9일자 수행한 코드를 각자의 branch에 commit, push 후 merge 하였습니다. 앞으로도 이러한 방식으로 할 예정입니다.
+* KPT 회고를 트렐로에서 깃허브에 있는 [Projects](https://github.com/nouu94/zerobase_localhost_codingtest_study/projects/1) 기능을 사용하려고 합니다. 이유는 다른 위치에 있는 툴을 써서 이리 저리 왔다갔다 하는 것 보다 하나의 툴에 있는 기능들을 최대한 써보기 위함 입니다.
+
+
+
